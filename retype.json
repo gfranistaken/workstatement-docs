@@ -1,0 +1,14 @@
+{
+  "input": ".",
+  "output": ".retype",
+  "branding": {
+    "title": "WorkStatement",
+    "label": "Docs"
+  },
+  "meta": {
+    "title": " | WorkStatement Documentation"
+  },
+  "footer": {
+    "copyright": "© Copyright {{ year }}. All rights reserved."
+  }
+} 
