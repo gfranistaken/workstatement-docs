@@ -1,7 +1,8 @@
 ---
 label: Statement of Work
 icon: file-code
-order: 100
+order: 20
+expanded: true
 ---
 
 # Statement of Work (SOW)

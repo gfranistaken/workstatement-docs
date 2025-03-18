@@ -1,7 +1,8 @@
 ---
 label: Statement of Objectives
 icon: goal
-order: 200
+order: 30
+expanded: true
 ---
 
 # Statement of Objectives (SOO)

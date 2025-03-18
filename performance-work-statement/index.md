@@ -1,7 +1,8 @@
 ---
 label: Performance Work Statement
 icon: checklist
-order: 300
+order: 40
+expanded: true
 ---
 
 # Performance Work Statement (PWS)

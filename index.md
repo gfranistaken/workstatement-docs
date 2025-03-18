@@ -3,7 +3,8 @@
 ---
 label: Home
 icon: home
-order: 100
+order: 10
+expanded: true
 ---
 
 Welcome to WorkStatement! This comprehensive documentation will guide you through creating effective work statements for your projects and contracts.
