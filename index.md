@@ -26,12 +26,6 @@ Welcome to WorkStatement! This comprehensive documentation will guide you throug
    - Performance standards
    - Quality assurance criteria
 
-## Getting Started
-
-- [Installation Guide](/getting-started/installation.md)
-- [Basic Configuration](/getting-started/configuration.md)
-- [First Steps](/getting-started/first-steps.md)
-
 ## Key Features
 
 - **Document Management**: Create, organize, and manage your work statements efficiently
