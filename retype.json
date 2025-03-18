@@ -3,7 +3,9 @@
   "output": ".retype",
   "branding": {
     "title": "WorkStatement",
-    "label": "Docs"
+    "label": "Docs",
+    "logo": "/assets/logo.svg",
+    "logoDark": "/assets/logo-dark.svg"
   },
   "meta": {
     "title": " | WorkStatement Documentation"
