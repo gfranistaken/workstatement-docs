@@ -2,8 +2,8 @@
   "input": ".",
   "output": ".retype",
   "branding": {
-    "title": "",
-    "label": " ",
+    "title": "WorkStatement",
+    "label": "Beta",
     "logo": "assets/logo.svg",
     "logoDark": "assets/logo-dark.svg"
   },
