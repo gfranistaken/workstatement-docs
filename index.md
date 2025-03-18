@@ -6,15 +6,30 @@ icon: home
 order: 100
 ---
 
-Welcome to WorkStatement! This comprehensive documentation will guide you through our platform's features, capabilities, and best practices.
+Welcome to WorkStatement! This comprehensive documentation will guide you through creating effective work statements for your projects and contracts.
 
-## Quick Start
+## Document Types
 
-Get started with WorkStatement in minutes:
+1. [Statement of Work (SOW)](/statement-of-work/index.md)
+   - Detailed project specifications
+   - Deliverables and timelines
+   - Terms and conditions
 
-1. [Installation Guide](/getting-started/installation.md)
-2. [Basic Configuration](/getting-started/configuration.md)
-3. [First Steps](/getting-started/first-steps.md)
+2. [Statement of Objectives (SOO)](/statement-of-objectives/index.md)
+   - High-level performance outcomes
+   - Program goals and objectives
+   - Flexibility for innovative solutions
+
+3. [Performance Work Statement (PWS)](/performance-work-statement/index.md)
+   - Measurable outcomes
+   - Performance standards
+   - Quality assurance criteria
+
+## Getting Started
+
+- [Installation Guide](/getting-started/installation.md)
+- [Basic Configuration](/getting-started/configuration.md)
+- [First Steps](/getting-started/first-steps.md)
 
 ## Key Features
 
